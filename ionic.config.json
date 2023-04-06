@@ -1,0 +1,7 @@
+{
+  "name": "Lab3App",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
